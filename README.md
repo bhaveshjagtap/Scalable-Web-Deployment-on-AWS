@@ -32,7 +32,7 @@ ssh -i /path/to/your-key.pem ec2-user@your-ec2-public-ip
 
 **2. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/scalable-web-deployment-aws.git
+git clone https://github.com/bhaveshjagtap/scalable-web-deployment-aws.git
 cd scalable-web-deployment-aws
 ```
 
